@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#030b1d" />
+    <title>Hinário · 1ª IPB Araruama</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topo">
+      <div class="brasao">
+  <div class="brasao-img" role="img" aria-label="Sarça ardente"></div>
+</div>
+      <h1 class="titulo">Hinário</h1>
+      <p class="igreja">1ª Igreja Presbiteriana de Araruama</p>
+      <p class="solas"> ❖Sola Scriptura ❖Sola Gratia ❖Sola Fide ❖Solus Christus ❖Soli Deo Gloria</p>
+    </header>
+
+    <div class="busca-barra">
+      <div class="busca">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="busca" type="search" placeholder="Buscar por número ou título" autocomplete="off" aria-label="Buscar hino" />
+      </div>
+      <p class="contagem" id="contagem" aria-live="polite"></p>
+    </div>
+
+    <main class="lista-wrap">
+      <ul class="lista" id="lista"></ul>
+      <p class="vazio" id="vazio" hidden>Nenhum hino encontrado. Tente outro número ou parte do título.</p>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

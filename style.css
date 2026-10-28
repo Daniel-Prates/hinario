@@ -1,15 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Cormorant+Garamond:wght@500;600;700&family=Shalimar&display=swap");
 
 :root {
-  --fundo: #030b1d;
-  --superficie: #0b1630;
-  --superficie-2: #12214a;
-  --linha: #1d2d5c;
+  --fundo: #04210b;
+  --superficie: #081a0d;
+  --superficie-2: #0e2916;
+  --linha: #193f22;
   --texto: #f1ece0;
-  --texto-suave: #9aa6c4;
+  --texto-suave: #8aa391;
   --ouro: #d4b062;
   --ouro-escuro: #a9863f;
   --erro: #e58a7b;
+  --halo: #093612; /* verde do brilho atrás da sarça */
 }
 
 * {
@@ -19,7 +20,13 @@
 body {
   margin: 0;
   background:
-    radial-gradient(900px 420px at 50% -80px, #11224f 0%, transparent 70%),
+    radial-gradient(
+      ellipse 760px 460px at 50% 110px,
+      color-mix(in srgb, var(--halo) 90%, transparent) 0%,
+      color-mix(in srgb, var(--halo) 45%, transparent) 40%,
+      color-mix(in srgb, var(--halo) 12%, transparent) 70%,
+      transparent 100%
+    ),
     var(--fundo);
   color: var(--texto);
   font-family: "Cormorant Garamond", Georgia, serif;
@@ -43,9 +50,46 @@ body {
 .igreja {
   margin: 6px 0 0;
   font-family: "Cinzel", serif;
-  font-size: 0.85rem;
+  font-size: 1.8rem;
   letter-spacing: 0.12em;
   color: var(--texto-suave);
+}
+
+/* Sarça ardente dentro do halo */
+.brasao {
+  position: relative;
+  width: clamp(120px, 30vw, 170px);
+  margin: 0 auto -6px;
+  animation: surgir 1.4s ease-out both;
+}
+/* brilho dourado difuso atrás da imagem */
+.brasao::before {
+  content: "";
+  position: absolute;
+  inset: -60% -70%;
+  background: radial-gradient(
+    closest-side,
+    rgba(212, 176, 98, 0.22),
+    rgba(212, 176, 98, 0.1) 35%,
+    rgba(212, 176, 98, 0.03) 70%,
+    transparent
+  );
+  pointer-events: none;
+}
+.brasao img {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  opacity: 0.92;
+}
+@keyframes surgir {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 /* Busca */
@@ -282,5 +326,6 @@ body {
 @media (prefers-reduced-motion: reduce) {
   * {
     transition: none !important;
+    animation: none !important;
   }
 }
