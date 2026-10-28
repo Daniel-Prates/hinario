@@ -1,0 +1,286 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Cormorant+Garamond:wght@500;600;700&family=Shalimar&display=swap");
+
+:root {
+  --fundo: #030b1d;
+  --superficie: #0b1630;
+  --superficie-2: #12214a;
+  --linha: #1d2d5c;
+  --texto: #f1ece0;
+  --texto-suave: #9aa6c4;
+  --ouro: #d4b062;
+  --ouro-escuro: #a9863f;
+  --erro: #e58a7b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(900px 420px at 50% -80px, #11224f 0%, transparent 70%),
+    var(--fundo);
+  color: var(--texto);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.15rem;
+  min-height: 100vh;
+}
+
+/* Topo */
+.topo {
+  text-align: center;
+  padding: 28px 20px 10px;
+}
+.titulo {
+  margin: 0;
+  font-family: "Shalimar", cursive;
+  font-weight: 400;
+  font-size: clamp(4rem, 14vw, 6.5rem);
+  line-height: 1;
+  color: var(--ouro);
+}
+.igreja {
+  margin: 6px 0 0;
+  font-family: "Cinzel", serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+  color: var(--texto-suave);
+}
+
+/* Busca */
+.busca-barra {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 14px 16px 12px;
+  background: linear-gradient(var(--fundo) 70%, transparent);
+}
+.busca {
+  position: relative;
+  max-width: 720px;
+  margin: 0 auto;
+}
+.busca svg {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  translate: 0 -50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: var(--texto-suave);
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+.busca input {
+  width: 100%;
+  padding: 14px 16px 14px 46px;
+  font: inherit;
+  color: var(--texto);
+  background: var(--superficie);
+  border: 1px solid var(--linha);
+  border-radius: 999px;
+}
+.busca input::placeholder {
+  color: var(--texto-suave);
+}
+.busca input:focus-visible {
+  outline: 2px solid var(--ouro);
+  outline-offset: 2px;
+}
+.contagem {
+  max-width: 720px;
+  margin: 8px auto 0;
+  padding: 0 6px;
+  font-size: 0.95rem;
+  color: var(--texto-suave);
+}
+
+/* Lista */
+.lista-wrap {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 4px 16px 40px;
+}
+.lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.hino {
+  background: var(--superficie);
+  border: 1px solid var(--linha);
+  border-radius: 14px;
+  padding: 12px 14px;
+  transition:
+    border-color 0.2s,
+    background-color 0.2s;
+}
+.hino.ativo {
+  border-color: var(--ouro-escuro);
+  background: var(--superficie-2);
+}
+
+.linha-principal {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.numero {
+  flex: none;
+  min-width: 2.2ch;
+  font-family: "Cinzel", serif;
+  font-size: 1.5rem;
+  color: var(--ouro);
+  text-align: center;
+}
+.nome {
+  flex: 1;
+  margin: 0;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+
+.btn {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid var(--linha);
+  background: transparent;
+  color: var(--texto);
+  cursor: pointer;
+  text-decoration: none;
+  transition:
+    background-color 0.15s,
+    border-color 0.15s;
+}
+.btn svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+.btn.baixar svg {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.btn:hover {
+  border-color: var(--ouro);
+}
+.btn:focus-visible,
+.progresso:focus-visible {
+  outline: 2px solid var(--ouro);
+  outline-offset: 2px;
+}
+.btn.tocar {
+  background: var(--ouro);
+  border-color: var(--ouro);
+  color: var(--fundo);
+}
+.btn.tocar:hover {
+  background: #e2c27a;
+}
+.btn.tocar .i-pause,
+.hino.tocando .btn.tocar .i-play {
+  display: none;
+}
+.hino.tocando .btn.tocar .i-pause {
+  display: block;
+}
+
+/* Barra de progresso (aparece só no hino ativo) */
+.player {
+  display: none;
+  align-items: center;
+  gap: 12px;
+  margin-top: 12px;
+  padding-left: 4px;
+}
+.hino.ativo .player {
+  display: flex;
+}
+.tempo {
+  flex: none;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95rem;
+  color: var(--texto-suave);
+  min-width: 4.6ch;
+}
+
+.progresso {
+  flex: 1;
+  height: 6px;
+  appearance: none;
+  border-radius: 999px;
+  cursor: pointer;
+  background: linear-gradient(
+    to right,
+    var(--ouro) var(--p, 0%),
+    var(--linha) var(--p, 0%)
+  );
+}
+.progresso::-webkit-slider-thumb {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--texto);
+  border: 0;
+}
+.progresso::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--texto);
+  border: 0;
+}
+
+.erro {
+  display: none;
+  margin: 10px 0 0;
+  font-size: 0.95rem;
+  color: var(--erro);
+}
+.hino.falhou .erro {
+  display: block;
+}
+
+.vazio {
+  text-align: center;
+  color: var(--texto-suave);
+  padding: 40px 0;
+}
+.solas {
+  text-align: center;
+  padding: 10px 0 30px;
+  font-family: "Cinzel", serif;
+  font-size: 0.8rem;
+  letter-spacing: 0.2em;
+  color: var(--ouro-escuro);
+}
+
+@media (max-width: 480px) {
+  .nome {
+    font-size: 1.15rem;
+  }
+  .linha-principal {
+    gap: 10px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+  }
+}

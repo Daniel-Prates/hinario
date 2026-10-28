@@ -1,0 +1,3047 @@
+[
+  {
+    "numero": "01",
+    "titulo": "Doxologia Justo é o Senhor",
+    "audios": {
+      "hino": "audios/01-doxologia-justo-e-o-senhor.opus"
+    }
+  },
+  {
+    "numero": "02",
+    "titulo": "Reverência",
+    "audios": {
+      "hino": "audios/02 - Reverência.opus"
+    }
+  },
+  {
+    "numero": "03",
+    "titulo": "A igreja em adoração",
+    "audios": {
+      "hino": "audios/03 - A igreja em adoração.opus"
+    }
+  },
+  {
+    "numero": "04",
+    "titulo": "Culto à trindade",
+    "audios": {
+      "hino": "audios/04 - Culto à trindade.opus"
+    }
+  },
+  {
+    "numero": "05",
+    "titulo": "Trindade adorada - 1ª música",
+    "audios": {
+      "hino": "audios/05 - Trindade adorada - 1ª música.opus"
+    }
+  },
+  {
+    "numero": "05",
+    "titulo": "Trindade adorada - 2ª música",
+    "audios": {
+      "hino": "audios/05 - Trindade adorada - 2ª música.opus"
+    }
+  },
+  {
+    "numero": "06",
+    "titulo": "Doxologia (A Deus supremo)",
+    "audios": {
+      "hino": "audios/06 - Doxologia (A Deus supremo).opus"
+    }
+  },
+  {
+    "numero": "07",
+    "titulo": "Glória à trindade",
+    "audios": {
+      "hino": "audios/07  - Glória à trindade.opus"
+    }
+  },
+  {
+    "numero": "08",
+    "titulo": "Adoração à trindade",
+    "audios": {
+      "hino": "audios/08  - Adoração à trindade.opus"
+    }
+  },
+  {
+    "numero": "09",
+    "titulo": "Aleluia ao Deus trino",
+    "audios": {
+      "hino": "audios/09 - Aleluia ao Deus trino.opus"
+    }
+  },
+  {
+    "numero": "10",
+    "titulo": "A criação e seu criador",
+    "audios": {
+      "hino": "audios/10 - A criação e seu criador.opus"
+    }
+  },
+  {
+    "numero": "100",
+    "titulo": "Louvores a Cristo",
+    "audios": {
+      "hino": "audios/100 - Louvores a Cristo.opus"
+    }
+  },
+  {
+    "numero": "100",
+    "titulo": "2 - Louvores a Cristo",
+    "audios": {
+      "hino": "audios/100 2 - Louvores a Cristo.opus"
+    }
+  },
+  {
+    "numero": "101",
+    "titulo": "A voz da Salvação",
+    "audios": {
+      "hino": "audios/101 - A voz da Salvação.opus"
+    }
+  },
+  {
+    "numero": "102",
+    "titulo": "1 - O céu com Cristo",
+    "audios": {
+      "hino": "audios/102 1 - O céu com Cristo.opus"
+    }
+  },
+  {
+    "numero": "102",
+    "titulo": "2 - O céu com Cristo_2",
+    "audios": {
+      "hino": "audios/102 2 - O céu com Cristo_2.opus"
+    }
+  },
+  {
+    "numero": "103",
+    "titulo": "Salvação em Cristo",
+    "audios": {
+      "hino": "audios/103 - Salvação em Cristo.opus"
+    }
+  },
+  {
+    "numero": "104",
+    "titulo": "Linda Melodia",
+    "audios": {
+      "hino": "audios/104 - Linda Melodia.opus"
+    }
+  },
+  {
+    "numero": "105",
+    "titulo": "A Certeza do Crente",
+    "audios": {
+      "hino": "audios/105 - A Certeza do Crente.opus"
+    }
+  },
+  {
+    "numero": "106",
+    "titulo": "Fonte Carmesim",
+    "audios": {
+      "hino": "audios/106 - Fonte Carmesim.opus"
+    }
+  },
+  {
+    "numero": "107",
+    "titulo": "Ao pé da cruz",
+    "audios": {
+      "hino": "audios/107 - Ao pé da cruz.opus"
+    }
+  },
+  {
+    "numero": "108",
+    "titulo": "Aflição e paz",
+    "audios": {
+      "hino": "audios/108 - Aflição e paz.opus"
+    }
+  },
+  {
+    "numero": "109",
+    "titulo": "O Bom Pastor",
+    "audios": {
+      "hino": "audios/109 - O Bom Pastor.opus"
+    }
+  },
+  {
+    "numero": "11",
+    "titulo": "Trindade santíssima",
+    "audios": {
+      "hino": "audios/11 - Trindade santíssima.opus"
+    }
+  },
+  {
+    "numero": "110",
+    "titulo": "A Vida Com Jesus",
+    "audios": {
+      "hino": "audios/110 - A Vida Com Jesus.opus"
+    }
+  },
+  {
+    "numero": "110",
+    "titulo": "A - Crer e Observar",
+    "audios": {
+      "hino": "audios/110-A - Crer e Observar.opus"
+    }
+  },
+  {
+    "numero": "111",
+    "titulo": "Comunhão Divina",
+    "audios": {
+      "hino": "audios/111 - Comunhão Divina.opus"
+    }
+  },
+  {
+    "numero": "112",
+    "titulo": "Rica Promessa",
+    "audios": {
+      "hino": "audios/112 - Rica Promessa.opus"
+    }
+  },
+  {
+    "numero": "113",
+    "titulo": "Achei Um Bom Amigo",
+    "audios": {
+      "hino": "audios/113 - Achei Um Bom Amigo.opus"
+    }
+  },
+  {
+    "numero": "114",
+    "titulo": "Brilho Cleste",
+    "audios": {
+      "hino": "audios/114 - Brilho Cleste.opus"
+    }
+  },
+  {
+    "numero": "115",
+    "titulo": "Unido com Cristo",
+    "audios": {
+      "hino": "audios/115 - Unido com Cristo.opus"
+    }
+  },
+  {
+    "numero": "116",
+    "titulo": "União com Deus",
+    "audios": {
+      "hino": "audios/116 - União com Deus.opus"
+    }
+  },
+  {
+    "numero": "117",
+    "titulo": "1 - Pastor Divino",
+    "audios": {
+      "hino": "audios/117 1 - Pastor Divino.opus"
+    }
+  },
+  {
+    "numero": "117",
+    "titulo": "2 - Pastor Divino",
+    "audios": {
+      "hino": "audios/117 2 - Pastor Divino.opus"
+    }
+  },
+  {
+    "numero": "118",
+    "titulo": "Esperando Em Deus",
+    "audios": {
+      "hino": "audios/118 - Esperando Em Deus.opus"
+    }
+  },
+  {
+    "numero": "119",
+    "titulo": "Súplica Pelo Culto",
+    "audios": {
+      "hino": "audios/119 - Súplica Pelo Culto.opus"
+    }
+  },
+  {
+    "numero": "12",
+    "titulo": "Glória a Deus",
+    "audios": {
+      "hino": "audios/12 - Glória a Deus.opus"
+    }
+  },
+  {
+    "numero": "120",
+    "titulo": "Dependência",
+    "audios": {
+      "hino": "audios/120 - Dependência.opus"
+    }
+  },
+  {
+    "numero": "121",
+    "titulo": "Perfeição",
+    "audios": {
+      "hino": "audios/121 - Perfeição.opus"
+    }
+  },
+  {
+    "numero": "122",
+    "titulo": "Necessitado",
+    "audios": {
+      "hino": "audios/122 - Necessitado.opus"
+    }
+  },
+  {
+    "numero": "123",
+    "titulo": "Grande Amor",
+    "audios": {
+      "hino": "audios/123 - Grande Amor.opus"
+    }
+  },
+  {
+    "numero": "124",
+    "titulo": "Benigna Luz",
+    "audios": {
+      "hino": "audios/124 - Benigna Luz.opus"
+    }
+  },
+  {
+    "numero": "125",
+    "titulo": "Sempre Veraz",
+    "audios": {
+      "hino": "audios/125 - Sempre Veraz.opus"
+    }
+  },
+  {
+    "numero": "126",
+    "titulo": "Dependência",
+    "audios": {
+      "hino": "audios/126 - Dependência.opus"
+    }
+  },
+  {
+    "numero": "127",
+    "titulo": "Hora Bendita",
+    "audios": {
+      "hino": "audios/127 - Hora Bendita.opus"
+    }
+  },
+  {
+    "numero": "128",
+    "titulo": "Comunhão Preciosa",
+    "audios": {
+      "hino": "audios/128 - Comunhão Preciosa.opus"
+    }
+  },
+  {
+    "numero": "129",
+    "titulo": "Vigilância E Oração",
+    "audios": {
+      "hino": "audios/129 - Vigilância E Oração.opus"
+    }
+  },
+  {
+    "numero": "13",
+    "titulo": "Contemplação",
+    "audios": {
+      "hino": "audios/13  - Contemplação.opus"
+    }
+  },
+  {
+    "numero": "130",
+    "titulo": "Oração Ao Senhor",
+    "audios": {
+      "hino": "audios/130 - Oração Ao Senhor.opus"
+    }
+  },
+  {
+    "numero": "130",
+    "titulo": "2 - Oração Ao Senhor",
+    "audios": {
+      "hino": "audios/130 2 - Oração Ao Senhor.opus"
+    }
+  },
+  {
+    "numero": "131",
+    "titulo": "Vida Santificada",
+    "audios": {
+      "hino": "audios/131 - Vida Santificada.opus"
+    }
+  },
+  {
+    "numero": "132",
+    "titulo": "Vivificação",
+    "audios": {
+      "hino": "audios/132 - Vivificação.opus"
+    }
+  },
+  {
+    "numero": "133",
+    "titulo": "Aspiração À Santidade",
+    "audios": {
+      "hino": "audios/133 - Aspiração À Santidade.opus"
+    }
+  },
+  {
+    "numero": "134",
+    "titulo": "Riquezas Do Céu",
+    "audios": {
+      "hino": "audios/134 - Riquezas Do Céu.opus"
+    }
+  },
+  {
+    "numero": "135",
+    "titulo": "Mais De Cristo",
+    "audios": {
+      "hino": "audios/135 - Mais De Cristo.opus"
+    }
+  },
+  {
+    "numero": "136",
+    "titulo": "Rocha Eterna",
+    "audios": {
+      "hino": "audios/136 - Rocha Eterna.opus"
+    }
+  },
+  {
+    "numero": "137",
+    "titulo": "Abrigo Temporal",
+    "audios": {
+      "hino": "audios/137 - Abrigo Temporal.opus"
+    }
+  },
+  {
+    "numero": "138",
+    "titulo": "Refúgio",
+    "audios": {
+      "hino": "audios/138 - Refúgio.opus"
+    }
+  },
+  {
+    "numero": "138",
+    "titulo": "2 - Refúgio",
+    "audios": {
+      "hino": "audios/138 2 - Refúgio.opus"
+    }
+  },
+  {
+    "numero": "139",
+    "titulo": "O Socorro Do Crente",
+    "audios": {
+      "hino": "audios/139 - O Socorro Do Crente.opus"
+    }
+  },
+  {
+    "numero": "139",
+    "titulo": "2 - O Socorro Do Crente",
+    "audios": {
+      "hino": "audios/139 2 - O Socorro Do Crente.opus"
+    }
+  },
+  {
+    "numero": "14",
+    "titulo": "Louvor",
+    "audios": {
+      "hino": "audios/14 - Louvor.opus"
+    }
+  },
+  {
+    "numero": "140",
+    "titulo": "Jornada do crente - 1ª música",
+    "audios": {
+      "hino": "audios/140 - Jornada do crente - 1ª música.opus"
+    }
+  },
+  {
+    "numero": "140",
+    "titulo": "Jornada do crente - 2ª música",
+    "audios": {
+      "hino": "audios/140 - Jornada do crente - 2ª música.opus"
+    }
+  },
+  {
+    "numero": "141",
+    "titulo": "Guia divino",
+    "audios": {
+      "hino": "audios/141 - Guia divino.opus"
+    }
+  },
+  {
+    "numero": "142",
+    "titulo": "O fiel pastor",
+    "audios": {
+      "hino": "audios/142 - O fiel pastor.opus"
+    }
+  },
+  {
+    "numero": "143",
+    "titulo": "Salmo 23",
+    "audios": {
+      "hino": "audios/143 - Salmo 23.opus"
+    }
+  },
+  {
+    "numero": "144",
+    "titulo": "Segurança e alegria",
+    "audios": {
+      "hino": "audios/144 - Segurança e alegria.opus"
+    }
+  },
+  {
+    "numero": "145",
+    "titulo": "Refúgio verdadeiro",
+    "audios": {
+      "hino": "audios/145 - Refúgio verdadeiro.opus"
+    }
+  },
+  {
+    "numero": "146",
+    "titulo": "A segurança do crente",
+    "audios": {
+      "hino": "audios/146 - A segurança do crente.opus"
+    }
+  },
+  {
+    "numero": "147",
+    "titulo": "Vencendo vem Jesus",
+    "audios": {
+      "hino": "audios/147 - Vencendo vem Jesus.opus"
+    }
+  },
+  {
+    "numero": "148",
+    "titulo": "Oração noturna",
+    "audios": {
+      "hino": "audios/148 - Oração noturna.opus"
+    }
+  },
+  {
+    "numero": "149",
+    "titulo": "Verdadeira redenção",
+    "audios": {
+      "hino": "audios/149 - Verdadeira redenção.opus"
+    }
+  },
+  {
+    "numero": "15",
+    "titulo": "Doxologia (Tua, ó Deus)",
+    "audios": {
+      "hino": "audios/15 - Doxologia (Tua, ó Deus).opus"
+    }
+  },
+  {
+    "numero": "150",
+    "titulo": "Salvação perfeita",
+    "audios": {
+      "hino": "audios/150 - Salvação perfeita.opus"
+    }
+  },
+  {
+    "numero": "151",
+    "titulo": "O bom pastor",
+    "audios": {
+      "hino": "audios/151 - O bom pastor.opus"
+    }
+  },
+  {
+    "numero": "152",
+    "titulo": "Onisciência divina",
+    "audios": {
+      "hino": "audios/152 - Onisciência divina.opus"
+    }
+  },
+  {
+    "numero": "153",
+    "titulo": "Amparo divino",
+    "audios": {
+      "hino": "audios/153 - Amparo divino.opus"
+    }
+  },
+  {
+    "numero": "154",
+    "titulo": "Segurança e paz - 1ª música",
+    "audios": {
+      "hino": "audios/154 - Segurança e paz - 1ª música.opus"
+    }
+  },
+  {
+    "numero": "154",
+    "titulo": "Segurança e paz - 2ª música",
+    "audios": {
+      "hino": "audios/154 - Segurança e paz - 2ª música.opus"
+    }
+  },
+  {
+    "numero": "155",
+    "titulo": "Castelo forte",
+    "audios": {
+      "hino": "audios/155 - Castelo forte.opus"
+    }
+  },
+  {
+    "numero": "156",
+    "titulo": "Confiança em Deus",
+    "audios": {
+      "hino": "audios/156 - Confiança em Deus.opus"
+    }
+  },
+  {
+    "numero": "157",
+    "titulo": "Segurança em Cristo",
+    "audios": {
+      "hino": "audios/157 - Segurança em Cristo.opus"
+    }
+  },
+  {
+    "numero": "158",
+    "titulo": "Conforto e luz",
+    "audios": {
+      "hino": "audios/158 - Conforto e luz.opus"
+    }
+  },
+  {
+    "numero": "159",
+    "titulo": "Bondoso amigo",
+    "audios": {
+      "hino": "audios/159 - Bondoso amigo.opus"
+    }
+  },
+  {
+    "numero": "16",
+    "titulo": "Louvai a Deus",
+    "audios": {
+      "hino": "audios/16 - Louvai a Deus.opus"
+    }
+  },
+  {
+    "numero": "160",
+    "titulo": "Cristo é tudo",
+    "audios": {
+      "hino": "audios/160 - Cristo é tudo.opus"
+    }
+  },
+  {
+    "numero": "161",
+    "titulo": "O melhor amigo",
+    "audios": {
+      "hino": "audios/161 - O melhor amigo.opus"
+    }
+  },
+  {
+    "numero": "162",
+    "titulo": "A Voz De Deus",
+    "audios": {
+      "hino": "audios/162 A Voz De Deus.opus"
+    }
+  },
+  {
+    "numero": "163",
+    "titulo": "Direção Divina",
+    "audios": {
+      "hino": "audios/163 Direção Divina.opus"
+    }
+  },
+  {
+    "numero": "164",
+    "titulo": "Nome Precioso",
+    "audios": {
+      "hino": "audios/164 Nome Precioso.opus"
+    }
+  },
+  {
+    "numero": "165",
+    "titulo": "Cuidado Divino",
+    "audios": {
+      "hino": "audios/165 Cuidado Divino.opus"
+    }
+  },
+  {
+    "numero": "166",
+    "titulo": "Luz Da Vida",
+    "audios": {
+      "hino": "audios/166 Luz Da Vida.opus"
+    }
+  },
+  {
+    "numero": "167",
+    "titulo": "Cristo Esperança Nossa",
+    "audios": {
+      "hino": "audios/167 Cristo Esperança Nossa.opus"
+    }
+  },
+  {
+    "numero": "168",
+    "titulo": "Jesus Amado",
+    "audios": {
+      "hino": "audios/168 Jesus Amado.opus"
+    }
+  },
+  {
+    "numero": "169",
+    "titulo": "Grata Confianaça",
+    "audios": {
+      "hino": "audios/169 Grata Confianaça.opus"
+    }
+  },
+  {
+    "numero": "17",
+    "titulo": "Deus seja louvado",
+    "audios": {
+      "hino": "audios/17 - Deus seja louvado.opus"
+    }
+  },
+  {
+    "numero": "170",
+    "titulo": "Redentor Onipotente",
+    "audios": {
+      "hino": "audios/170 Redentor Onipotente.opus"
+    }
+  },
+  {
+    "numero": "171",
+    "titulo": "Deus Proverá",
+    "audios": {
+      "hino": "audios/171 Deus Proverá.opus"
+    }
+  },
+  {
+    "numero": "172",
+    "titulo": "Chuvas De Bençãos",
+    "audios": {
+      "hino": "audios/172 Chuvas De Bençãos.opus"
+    }
+  },
+  {
+    "numero": "173",
+    "titulo": "1 Coração Vespertino",
+    "audios": {
+      "hino": "audios/173-1 Coração Vespertino.opus"
+    }
+  },
+  {
+    "numero": "173",
+    "titulo": "2 Coração Vespertino 2 - 173",
+    "audios": {
+      "hino": "audios/173-2 Coração Vespertino 2 - 173.opus"
+    }
+  },
+  {
+    "numero": "174",
+    "titulo": "Poderoso Salvador",
+    "audios": {
+      "hino": "audios/174 Poderoso Salvador.opus"
+    }
+  },
+  {
+    "numero": "175",
+    "titulo": "O Servo Do Senhor",
+    "audios": {
+      "hino": "audios/175 O Servo Do Senhor.opus"
+    }
+  },
+  {
+    "numero": "176",
+    "titulo": "Fidelidade Do Cristão",
+    "audios": {
+      "hino": "audios/176 Fidelidade Do Cristão.opus"
+    }
+  },
+  {
+    "numero": "177",
+    "titulo": "Firme Nas Promessas",
+    "audios": {
+      "hino": "audios/177 Firme Nas Promessas.opus"
+    }
+  },
+  {
+    "numero": "178",
+    "titulo": "A Excelência Do Amor",
+    "audios": {
+      "hino": "audios/178 A Excelência Do Amor.opus"
+    }
+  },
+  {
+    "numero": "179",
+    "titulo": "Saudação",
+    "audios": {
+      "hino": "audios/179 Saudação.opus"
+    }
+  },
+  {
+    "numero": "18",
+    "titulo": "Deus dos antigos",
+    "audios": {
+      "hino": "audios/18 - Deus dos antigos.opus"
+    }
+  },
+  {
+    "numero": "180",
+    "titulo": "Amor Fraternal",
+    "audios": {
+      "hino": "audios/180 Amor Fraternal.opus"
+    }
+  },
+  {
+    "numero": "181",
+    "titulo": "Irmãos Em Jesus",
+    "audios": {
+      "hino": "audios/181 Irmãos Em Jesus.opus"
+    }
+  },
+  {
+    "numero": "182",
+    "titulo": "Uinão Fraterna",
+    "audios": {
+      "hino": "audios/182 Uinão Fraterna.opus"
+    }
+  },
+  {
+    "numero": "183",
+    "titulo": "Benditro Laços",
+    "audios": {
+      "hino": "audios/183 Benditro Laços.opus"
+    }
+  },
+  {
+    "numero": "184",
+    "titulo": "Face A Face",
+    "audios": {
+      "hino": "audios/184 Face A Face.opus"
+    }
+  },
+  {
+    "numero": "185",
+    "titulo": "Glória Vindoura",
+    "audios": {
+      "hino": "audios/185 Glória Vindoura.opus"
+    }
+  },
+  {
+    "numero": "186",
+    "titulo": "O lar do céu",
+    "audios": {
+      "hino": "audios/186 - O lar do céu.opus"
+    }
+  },
+  {
+    "numero": "187",
+    "titulo": "Cidade celeste",
+    "audios": {
+      "hino": "audios/187 - Cidade celeste.opus"
+    }
+  },
+  {
+    "numero": "188",
+    "titulo": "1 - Clara luz",
+    "audios": {
+      "hino": "audios/188 1 - Clara luz.opus"
+    }
+  },
+  {
+    "numero": "188",
+    "titulo": "2 - Clara luz",
+    "audios": {
+      "hino": "audios/188 2 - Clara luz.opus"
+    }
+  },
+  {
+    "numero": "189",
+    "titulo": "Jerusalem celeste",
+    "audios": {
+      "hino": "audios/189 - Jerusalem celeste.opus"
+    }
+  },
+  {
+    "numero": "19",
+    "titulo": "Rei sublime",
+    "audios": {
+      "hino": "audios/19 - Rei sublime.opus"
+    }
+  },
+  {
+    "numero": "190",
+    "titulo": "Maior que a dor",
+    "audios": {
+      "hino": "audios/190 - Maior que a dor.opus"
+    }
+  },
+  {
+    "numero": "191",
+    "titulo": "Rio da vida",
+    "audios": {
+      "hino": "audios/191 - Rio da vida.opus"
+    }
+  },
+  {
+    "numero": "192",
+    "titulo": "No céu com Jesus",
+    "audios": {
+      "hino": "audios/192 - No céu com Jesus.opus"
+    }
+  },
+  {
+    "numero": "193",
+    "titulo": "Aspiração do céu",
+    "audios": {
+      "hino": "audios/193 - Aspiração do céu.opus"
+    }
+  },
+  {
+    "numero": "194",
+    "titulo": "MORADA FELIZ",
+    "audios": {
+      "hino": "audios/194 - MORADA FELIZ.opus"
+    }
+  },
+  {
+    "numero": "195",
+    "titulo": "Dormindo no Senhor",
+    "audios": {
+      "hino": "audios/195 - Dormindo no Senhor.opus"
+    }
+  },
+  {
+    "numero": "196",
+    "titulo": "Gozo, esplendores, venturas",
+    "audios": {
+      "hino": "audios/196 - Gozo, esplendores, venturas.opus"
+    }
+  },
+  {
+    "numero": "197",
+    "titulo": "O Salvador espera",
+    "audios": {
+      "hino": "audios/197 - O Salvador espera.opus"
+    }
+  },
+  {
+    "numero": "198",
+    "titulo": "Salvação graciosa",
+    "audios": {
+      "hino": "audios/198 - Salvação graciosa.opus"
+    }
+  },
+  {
+    "numero": "199",
+    "titulo": "Cristo salva",
+    "audios": {
+      "hino": "audios/199 - Cristo salva.opus"
+    }
+  },
+  {
+    "numero": "20",
+    "titulo": "Glorificação à trindade",
+    "audios": {
+      "hino": "audios/20 - Glorificação à trindade.opus"
+    }
+  },
+  {
+    "numero": "200",
+    "titulo": "Palavra abençoada",
+    "audios": {
+      "hino": "audios/200 - Palavra abençoada.opus"
+    }
+  },
+  {
+    "numero": "201",
+    "titulo": "Manso e suave",
+    "audios": {
+      "hino": "audios/201 - Manso e suave.opus"
+    }
+  },
+  {
+    "numero": "202",
+    "titulo": "Palavras Preciosas",
+    "audios": {
+      "hino": "audios/202 - Palavras Preciosas.opus"
+    }
+  },
+  {
+    "numero": "203",
+    "titulo": "Convite para salvação",
+    "audios": {
+      "hino": "audios/203 - Convite para salvação.opus"
+    }
+  },
+  {
+    "numero": "204",
+    "titulo": "Cristo à porta",
+    "audios": {
+      "hino": "audios/204 - Cristo à porta.opus"
+    }
+  },
+  {
+    "numero": "205",
+    "titulo": "O amor que chama",
+    "audios": {
+      "hino": "audios/205 - O amor que chama.opus"
+    }
+  },
+  {
+    "numero": "206",
+    "titulo": "Convite de Jesus",
+    "audios": {
+      "hino": "audios/206- Convite de Jesus.opus"
+    }
+  },
+  {
+    "numero": "207",
+    "titulo": "Convite ao pecador",
+    "audios": {
+      "hino": "audios/207- Convite ao pecador.opus"
+    }
+  },
+  {
+    "numero": "208",
+    "titulo": "Aproximação",
+    "audios": {
+      "hino": "audios/208- Aproximação.opus"
+    }
+  },
+  {
+    "numero": "209",
+    "titulo": "Encorajamento",
+    "audios": {
+      "hino": "audios/209- Encorajamento.opus"
+    }
+  },
+  {
+    "numero": "21",
+    "titulo": "Deus de Abraão",
+    "audios": {
+      "hino": "audios/21 - Deus de Abraão.opus"
+    }
+  },
+  {
+    "numero": "210",
+    "titulo": "O Filho Perdido",
+    "audios": {
+      "hino": "audios/210 O Filho Perdido.opus"
+    }
+  },
+  {
+    "numero": "211",
+    "titulo": "Quase Induzido",
+    "audios": {
+      "hino": "audios/211 Quase Induzido.opus"
+    }
+  },
+  {
+    "numero": "212",
+    "titulo": "Apelo",
+    "audios": {
+      "hino": "audios/212 - Apelo.opus"
+    }
+  },
+  {
+    "numero": "213",
+    "titulo": "A Última Hora",
+    "audios": {
+      "hino": "audios/213 A Última Hora.opus"
+    }
+  },
+  {
+    "numero": "214",
+    "titulo": "Convite E Aceitação",
+    "audios": {
+      "hino": "audios/214 Convite E Aceitação.opus"
+    }
+  },
+  {
+    "numero": "215",
+    "titulo": "Apelo",
+    "audios": {
+      "hino": "audios/215 Apelo.opus"
+    }
+  },
+  {
+    "numero": "216",
+    "titulo": "Perdão",
+    "audios": {
+      "hino": "audios/216 Perdão.opus"
+    }
+  },
+  {
+    "numero": "217",
+    "titulo": "Desprendimento",
+    "audios": {
+      "hino": "audios/217 Desprendimento.opus"
+    }
+  },
+  {
+    "numero": "218",
+    "titulo": "Vontade Soberana 1ª Música",
+    "audios": {
+      "hino": "audios/218 Vontade Soberana 1ª Música.opus"
+    }
+  },
+  {
+    "numero": "218",
+    "titulo": "Vontade Soberana 2ª Música",
+    "audios": {
+      "hino": "audios/218 Vontade Soberana 2ª Música.opus"
+    }
+  },
+  {
+    "numero": "219",
+    "titulo": "Dedicação",
+    "audios": {
+      "hino": "audios/219 Dedicação.opus"
+    }
+  },
+  {
+    "numero": "22",
+    "titulo": "Os céus proclamam - 1ª música",
+    "audios": {
+      "hino": "audios/22 - Os céus proclamam - 1ª música.opus"
+    }
+  },
+  {
+    "numero": "22",
+    "titulo": "Os céus proclamam - 2ª música",
+    "audios": {
+      "hino": "audios/22 - Os céus proclamam - 2ª música.opus"
+    }
+  },
+  {
+    "numero": "220",
+    "titulo": "Plena Dedicação 1ª Música",
+    "audios": {
+      "hino": "audios/220 Plena Dedicação 1ª Música.opus"
+    }
+  },
+  {
+    "numero": "220",
+    "titulo": "Plena Dedicação 2ª Música",
+    "audios": {
+      "hino": "audios/220 Plena Dedicação 2ª Música.opus"
+    }
+  },
+  {
+    "numero": "221",
+    "titulo": "Um Vaso De Bênção",
+    "audios": {
+      "hino": "audios/221 Um Vaso De Bênção.opus"
+    }
+  },
+  {
+    "numero": "222",
+    "titulo": "Mais Perto Da Cruz",
+    "audios": {
+      "hino": "audios/222 Mais Perto Da Cruz.opus"
+    }
+  },
+  {
+    "numero": "223",
+    "titulo": "Oração De Arrependido",
+    "audios": {
+      "hino": "audios/223 Oração De Arrependido.opus"
+    }
+  },
+  {
+    "numero": "224",
+    "titulo": "Consagração",
+    "audios": {
+      "hino": "audios/224 Consagração.opus"
+    }
+  },
+  {
+    "numero": "225",
+    "titulo": "Dedicação Pessoal 1ª Música",
+    "audios": {
+      "hino": "audios/225 Dedicação Pessoal 1ª Música.opus"
+    }
+  },
+  {
+    "numero": "225",
+    "titulo": "A Dedicação Pessoal 2ª Música",
+    "audios": {
+      "hino": "audios/225A Dedicação Pessoal 2ª Música.opus"
+    }
+  },
+  {
+    "numero": "226",
+    "titulo": "A História De Cristo",
+    "audios": {
+      "hino": "audios/226 A História De Cristo.opus"
+    }
+  },
+  {
+    "numero": "227",
+    "titulo": "A Velha História",
+    "audios": {
+      "hino": "audios/227 A Velha História.opus"
+    }
+  },
+  {
+    "numero": "228",
+    "titulo": "De Deus O Ungido",
+    "audios": {
+      "hino": "audios/228 De Deus O Ungido.opus"
+    }
+  },
+  {
+    "numero": "229",
+    "titulo": "Boas-Novas",
+    "audios": {
+      "hino": "audios/229 Boas-Novas.opus"
+    }
+  },
+  {
+    "numero": "23",
+    "titulo": "Adoração ao criador",
+    "audios": {
+      "hino": "audios/23 - Adoração ao criador.opus"
+    }
+  },
+  {
+    "numero": "230",
+    "titulo": "Adoração",
+    "audios": {
+      "hino": "audios/230 - Adoração.opus"
+    }
+  },
+  {
+    "numero": "231",
+    "titulo": "O Primeiro Natal",
+    "audios": {
+      "hino": "audios/231 - O Primeiro Natal.opus"
+    }
+  },
+  {
+    "numero": "232",
+    "titulo": "Pequena Vila De Belém",
+    "audios": {
+      "hino": "audios/232 - Pequena Vila De Belém.opus"
+    }
+  },
+  {
+    "numero": "233",
+    "titulo": "Os Pastores no Campo",
+    "audios": {
+      "hino": "audios/233 - Os Pastores no Campo.opus"
+    }
+  },
+  {
+    "numero": "234",
+    "titulo": "Um Pequeno A Repousar",
+    "audios": {
+      "hino": "audios/234 - Um Pequeno A Repousar.opus"
+    }
+  },
+  {
+    "numero": "235",
+    "titulo": "O Anjo Da Paz",
+    "audios": {
+      "hino": "audios/235 - O Anjo Da Paz.opus"
+    }
+  },
+  {
+    "numero": "236",
+    "titulo": "Em Linda Noite",
+    "audios": {
+      "hino": "audios/236 - Em Linda Noite.opus"
+    }
+  },
+  {
+    "numero": "237",
+    "titulo": "Jesus Nasceu",
+    "audios": {
+      "hino": "audios/237 - Jesus Nasceu.opus"
+    }
+  },
+  {
+    "numero": "237",
+    "titulo": "A - Linda Estrela",
+    "audios": {
+      "hino": "audios/237 A - Linda Estrela.opus"
+    }
+  },
+  {
+    "numero": "238",
+    "titulo": "Novas De Amor",
+    "audios": {
+      "hino": "audios/238 - Novas De Amor.opus"
+    }
+  },
+  {
+    "numero": "239",
+    "titulo": "Nasce Jesus",
+    "audios": {
+      "hino": "audios/239 - Nasce Jesus.opus"
+    }
+  },
+  {
+    "numero": "24",
+    "titulo": "Convite ao louvor - 1ª música",
+    "audios": {
+      "hino": "audios/24 - Convite ao louvor - 1ª música.opus"
+    }
+  },
+  {
+    "numero": "24",
+    "titulo": "Convite ao louvor - 2ª música",
+    "audios": {
+      "hino": "audios/24 - Convite ao louvor - 2ª música.opus"
+    }
+  },
+  {
+    "numero": "240",
+    "titulo": "Louvor Angelical",
+    "audios": {
+      "hino": "audios/240 - Louvor Angelical.opus"
+    }
+  },
+  {
+    "numero": "241",
+    "titulo": "O Nascimento De Jesus",
+    "audios": {
+      "hino": "audios/241 - O Nascimento De Jesus.opus"
+    }
+  },
+  {
+    "numero": "242",
+    "titulo": "Os Anjos E O Natal",
+    "audios": {
+      "hino": "audios/242 - Os Anjos E O Natal.opus"
+    }
+  },
+  {
+    "numero": "243",
+    "titulo": "Noite De Paz",
+    "audios": {
+      "hino": "audios/243 - Noite De Paz.opus"
+    }
+  },
+  {
+    "numero": "244",
+    "titulo": "Mensagem Aos Pastores",
+    "audios": {
+      "hino": "audios/244 - Mensagem Aos Pastores.opus"
+    }
+  },
+  {
+    "numero": "245",
+    "titulo": "Homens Sábios E De Bem",
+    "audios": {
+      "hino": "audios/245 - Homens Sábios E De Bem.opus"
+    }
+  },
+  {
+    "numero": "246",
+    "titulo": "Jesus, O Messias",
+    "audios": {
+      "hino": "audios/246 - Jesus, O Messias.opus"
+    }
+  },
+  {
+    "numero": "247",
+    "titulo": "Estrela Cintilante",
+    "audios": {
+      "hino": "audios/247 - Estrela Cintilante.opus"
+    }
+  },
+  {
+    "numero": "248",
+    "titulo": "No Humilde Presépio",
+    "audios": {
+      "hino": "audios/248 - No Humilde Presépio.opus"
+    }
+  },
+  {
+    "numero": "249",
+    "titulo": "Na Manjedoura",
+    "audios": {
+      "hino": "audios/249 - Na Manjedoura.opus"
+    }
+  },
+  {
+    "numero": "25",
+    "titulo": "O criador de tudo",
+    "audios": {
+      "hino": "audios/25 - O criador de tudo.opus"
+    }
+  },
+  {
+    "numero": "250",
+    "titulo": "A Voz De Jesus",
+    "audios": {
+      "hino": "audios/250 - A Voz De Jesus.opus"
+    }
+  },
+  {
+    "numero": "251",
+    "titulo": "O Pão Da Vida",
+    "audios": {
+      "hino": "audios/251 - O Pão Da Vida.opus"
+    }
+  },
+  {
+    "numero": "252",
+    "titulo": "Pão Celestial",
+    "audios": {
+      "hino": "audios/252 - Pão Celestial.opus"
+    }
+  },
+  {
+    "numero": "253",
+    "titulo": "Cristo, A Luz Do Mundo",
+    "audios": {
+      "hino": "audios/253 - Cristo, A Luz Do Mundo.opus"
+    }
+  },
+  {
+    "numero": "254",
+    "titulo": "Sossegai",
+    "audios": {
+      "hino": "audios/254 - Sossegai.opus"
+    }
+  },
+  {
+    "numero": "255",
+    "titulo": "A ovelha perdida",
+    "audios": {
+      "hino": "audios/255 - A ovelha perdida.opus"
+    }
+  },
+  {
+    "numero": "256",
+    "titulo": "Glória singular",
+    "audios": {
+      "hino": "audios/256 - Glória singular.opus"
+    }
+  },
+  {
+    "numero": "257",
+    "titulo": "Hosana ao grande Rei",
+    "audios": {
+      "hino": "audios/257 - Hosana ao grande Rei.opus"
+    }
+  },
+  {
+    "numero": "258",
+    "titulo": "Majestade",
+    "audios": {
+      "hino": "audios/258 - Majestade.opus"
+    }
+  },
+  {
+    "numero": "259",
+    "titulo": "Hosana e glória",
+    "audios": {
+      "hino": "audios/259 - Hosana e glória.opus"
+    }
+  },
+  {
+    "numero": "26",
+    "titulo": "Ao Deus grandioso",
+    "audios": {
+      "hino": "audios/26 - Ao Deus grandioso.opus"
+    }
+  },
+  {
+    "numero": "260",
+    "titulo": "Amor que vence",
+    "audios": {
+      "hino": "audios/260 - Amor que vence.opus"
+    }
+  },
+  {
+    "numero": "261",
+    "titulo": "O Gólgota",
+    "audios": {
+      "hino": "audios/261 - O Gólgota.opus"
+    }
+  },
+  {
+    "numero": "262",
+    "titulo": "Contemplação da cruz",
+    "audios": {
+      "hino": "audios/262 - Contemplação da cruz.opus"
+    }
+  },
+  {
+    "numero": "263",
+    "titulo": "Junto à cruz de Cristo",
+    "audios": {
+      "hino": "audios/263 - Junto à cruz de Cristo.opus"
+    }
+  },
+  {
+    "numero": "264",
+    "titulo": "Fronte ensanguentada",
+    "audios": {
+      "hino": "audios/264 - Fronte ensanguentada.opus"
+    }
+  },
+  {
+    "numero": "265",
+    "titulo": "Cristo redentor",
+    "audios": {
+      "hino": "audios/265 - Cristo redentor.opus"
+    }
+  },
+  {
+    "numero": "266",
+    "titulo": "Rude cruz",
+    "audios": {
+      "hino": "audios/266 - Rude cruz.opus"
+    }
+  },
+  {
+    "numero": "267",
+    "titulo": "Precioso sangue",
+    "audios": {
+      "hino": "audios/267 - Precioso sangue.opus"
+    }
+  },
+  {
+    "numero": "268",
+    "titulo": "Redenção",
+    "audios": {
+      "hino": "audios/268 - Redenção.opus"
+    }
+  },
+  {
+    "numero": "269",
+    "titulo": "Pureza no sangue Cristo",
+    "audios": {
+      "hino": "audios/269 - Pureza no sangue Cristo.opus"
+    }
+  },
+  {
+    "numero": "27",
+    "titulo": "Um hino ao Senhor",
+    "audios": {
+      "hino": "audios/27 - Um hino ao Senhor.opus"
+    }
+  },
+  {
+    "numero": "270",
+    "titulo": "Desafio",
+    "audios": {
+      "hino": "audios/270 - Desafio.opus"
+    }
+  },
+  {
+    "numero": "271",
+    "titulo": "Ressurreição",
+    "audios": {
+      "hino": "audios/271 - Ressurreição.opus"
+    }
+  },
+  {
+    "numero": "272",
+    "titulo": "Aleluia ao Cristo redivivo",
+    "audios": {
+      "hino": "audios/272 - Aleluia ao Cristo redivivo.opus"
+    }
+  },
+  {
+    "numero": "273",
+    "titulo": "Memórias da ressurreição",
+    "audios": {
+      "hino": "audios/273 - Memórias da ressurreição.opus"
+    }
+  },
+  {
+    "numero": "274",
+    "titulo": "Morto e ressurreto",
+    "audios": {
+      "hino": "audios/274 - Morto e ressurreto.opus"
+    }
+  },
+  {
+    "numero": "275",
+    "titulo": "Crsito venceu",
+    "audios": {
+      "hino": "audios/275 - Crsito venceu.opus"
+    }
+  },
+  {
+    "numero": "276",
+    "titulo": "Amorável convite",
+    "audios": {
+      "hino": "audios/276 - Amorável convite.opus"
+    }
+  },
+  {
+    "numero": "277",
+    "titulo": "Cristo vive! Ressurgiu!",
+    "audios": {
+      "hino": "audios/277 - Cristo vive! Ressurgiu!.opus"
+    }
+  },
+  {
+    "numero": "278",
+    "titulo": "A vitória de Jesus",
+    "audios": {
+      "hino": "audios/278 - A vitória de Jesus.opus"
+    }
+  },
+  {
+    "numero": "279",
+    "titulo": "O dia triunfal raiou",
+    "audios": {
+      "hino": "audios/279 - O dia triunfal raiou.opus"
+    }
+  },
+  {
+    "numero": "28",
+    "titulo": "Coroação",
+    "audios": {
+      "hino": "audios/28 - Coroação.opus"
+    }
+  },
+  {
+    "numero": "280",
+    "titulo": "Ascensão",
+    "audios": {
+      "hino": "audios/280 - Ascensão.opus"
+    }
+  },
+  {
+    "numero": "281",
+    "titulo": "Jesus Triunfante",
+    "audios": {
+      "hino": "audios/281 - Jesus Triunfante.opus"
+    }
+  },
+  {
+    "numero": "281",
+    "titulo": "2 - Fronte Ensangüentada",
+    "audios": {
+      "hino": "audios/281 2 - Fronte Ensangüentada.opus"
+    }
+  },
+  {
+    "numero": "282",
+    "titulo": "A Grande Comissão",
+    "audios": {
+      "hino": "audios/282 - A Grande Comissão.opus"
+    }
+  },
+  {
+    "numero": "283",
+    "titulo": "Desafio",
+    "audios": {
+      "hino": "audios/283 - Desafio.opus"
+    }
+  },
+  {
+    "numero": "284",
+    "titulo": "Obediência",
+    "audios": {
+      "hino": "audios/284 - Obediência.opus"
+    }
+  },
+  {
+    "numero": "285",
+    "titulo": "1 - A Salvação Do Brasil",
+    "audios": {
+      "hino": "audios/285 1 - A Salvação Do Brasil.opus"
+    }
+  },
+  {
+    "numero": "285",
+    "titulo": "2 - A Salvação De Brasil",
+    "audios": {
+      "hino": "audios/285 2 - A Salvação De Brasil.opus"
+    }
+  },
+  {
+    "numero": "286",
+    "titulo": "Colheita Bendita",
+    "audios": {
+      "hino": "audios/286 - Colheita Bendita.opus"
+    }
+  },
+  {
+    "numero": "287",
+    "titulo": "Igraja, Alerta!",
+    "audios": {
+      "hino": "audios/287 - Igraja, Alerta!.opus"
+    }
+  },
+  {
+    "numero": "288",
+    "titulo": "A Mensagem Real",
+    "audios": {
+      "hino": "audios/288 - A Mensagem Real.opus"
+    }
+  },
+  {
+    "numero": "289",
+    "titulo": "Quem Irá-",
+    "audios": {
+      "hino": "audios/289 - Quem Irá-.opus"
+    }
+  },
+  {
+    "numero": "29",
+    "titulo": "Louvor",
+    "audios": {
+      "hino": "audios/29 - Louvor.opus"
+    }
+  },
+  {
+    "numero": "290",
+    "titulo": "Jesus Já Vem",
+    "audios": {
+      "hino": "audios/290 - Jesus Já Vem.opus"
+    }
+  },
+  {
+    "numero": "291",
+    "titulo": "Triunfante Vem",
+    "audios": {
+      "hino": "audios/291 - Triunfante Vem.opus"
+    }
+  },
+  {
+    "numero": "292",
+    "titulo": "A Vinda Do Senhor",
+    "audios": {
+      "hino": "audios/292 - A Vinda Do Senhor.opus"
+    }
+  },
+  {
+    "numero": "293",
+    "titulo": "O Dia Glorioso",
+    "audios": {
+      "hino": "audios/293 - O Dia Glorioso.opus"
+    }
+  },
+  {
+    "numero": "294",
+    "titulo": "O Senhor Voltará",
+    "audios": {
+      "hino": "audios/294 - O Senhor Voltará.opus"
+    }
+  },
+  {
+    "numero": "295",
+    "titulo": "A Volta De Jesus",
+    "audios": {
+      "hino": "audios/295 - A Volta De Jesus.opus"
+    }
+  },
+  {
+    "numero": "296",
+    "titulo": "Cristo Não Tarda",
+    "audios": {
+      "hino": "audios/296 - Cristo Não Tarda.opus"
+    }
+  },
+  {
+    "numero": "297",
+    "titulo": "A Chamada Final",
+    "audios": {
+      "hino": "audios/297 - A Chamada Final.opus"
+    }
+  },
+  {
+    "numero": "298",
+    "titulo": "A Pedra Fundamental",
+    "audios": {
+      "hino": "audios/298 - A Pedra Fundamental.opus"
+    }
+  },
+  {
+    "numero": "299",
+    "titulo": "Renovação",
+    "audios": {
+      "hino": "audios/299 - Renovação.opus"
+    }
+  },
+  {
+    "numero": "30",
+    "titulo": "Providência de deus (na criação)",
+    "audios": {
+      "hino": "audios/30 - Providência de deus (na criação).opus"
+    }
+  },
+  {
+    "numero": "300",
+    "titulo": "Igraja Militante",
+    "audios": {
+      "hino": "audios/300 - Igraja Militante.opus"
+    }
+  },
+  {
+    "numero": "301",
+    "titulo": "O Único Salvador",
+    "audios": {
+      "hino": "audios/301 O Único Salvador.opus"
+    }
+  },
+  {
+    "numero": "302",
+    "titulo": "Povoam As Cidades",
+    "audios": {
+      "hino": "audios/302 Povoam As Cidades.opus"
+    }
+  },
+  {
+    "numero": "303",
+    "titulo": "Pendão Real",
+    "audios": {
+      "hino": "audios/303 Pendão Real.opus"
+    }
+  },
+  {
+    "numero": "304",
+    "titulo": "A Voz Do Evangelho",
+    "audios": {
+      "hino": "audios/304 A Voz Do Evangelho.opus"
+    }
+  },
+  {
+    "numero": "305",
+    "titulo": "Quem Quiser",
+    "audios": {
+      "hino": "audios/305 Quem Quiser.opus"
+    }
+  },
+  {
+    "numero": "306",
+    "titulo": "Fidelidade Na Luta",
+    "audios": {
+      "hino": "audios/306 Fidelidade Na Luta.opus"
+    }
+  },
+  {
+    "numero": "307",
+    "titulo": "A Santa Igreja",
+    "audios": {
+      "hino": "audios/307 A Santa Igreja.opus"
+    }
+  },
+  {
+    "numero": "308",
+    "titulo": "Escuridão E Luz",
+    "audios": {
+      "hino": "audios/308 Escuridão E Luz.opus"
+    }
+  },
+  {
+    "numero": "309",
+    "titulo": "Proclamação",
+    "audios": {
+      "hino": "audios/309 Proclamação.opus"
+    }
+  },
+  {
+    "numero": "31",
+    "titulo": "Providência de Deus (na redenção)",
+    "audios": {
+      "hino": "audios/31 - Providência de Deus (na redenção).opus"
+    }
+  },
+  {
+    "numero": "310",
+    "titulo": "Quem Salva É Só Jesus",
+    "audios": {
+      "hino": "audios/310 Quem Salva É Só Jesus.opus"
+    }
+  },
+  {
+    "numero": "311",
+    "titulo": "1 Avante, Ó Crentes",
+    "audios": {
+      "hino": "audios/311 1 Avante, Ó Crentes.opus"
+    }
+  },
+  {
+    "numero": "311",
+    "titulo": "2 Avante, Ó Crentes",
+    "audios": {
+      "hino": "audios/311 2 Avante, Ó Crentes.opus"
+    }
+  },
+  {
+    "numero": "312",
+    "titulo": "Há Trabalho Certo",
+    "audios": {
+      "hino": "audios/312 - Há Trabalho Certo.opus"
+    }
+  },
+  {
+    "numero": "313",
+    "titulo": "Prontidão",
+    "audios": {
+      "hino": "audios/313 Prontidão.opus"
+    }
+  },
+  {
+    "numero": "314",
+    "titulo": "Diligência",
+    "audios": {
+      "hino": "audios/314 Diligência.opus"
+    }
+  },
+  {
+    "numero": "315",
+    "titulo": "Serviço Do Crente",
+    "audios": {
+      "hino": "audios/315 Serviço Do Crente.opus"
+    }
+  },
+  {
+    "numero": "316",
+    "titulo": "Os Intentos De Deus",
+    "audios": {
+      "hino": "audios/316 Os Intentos De Deus.opus"
+    }
+  },
+  {
+    "numero": "317",
+    "titulo": "Chamada",
+    "audios": {
+      "hino": "audios/317 Chamada.opus"
+    }
+  },
+  {
+    "numero": "318",
+    "titulo": "Ceifeiros Do Salvador",
+    "audios": {
+      "hino": "audios/318 Ceifeiros Do Salvador.opus"
+    }
+  },
+  {
+    "numero": "319",
+    "titulo": "Obreiros Em Marcha",
+    "audios": {
+      "hino": "audios/319 Obreiros Em Marcha.opus"
+    }
+  },
+  {
+    "numero": "320",
+    "titulo": "Brilha No Viver",
+    "audios": {
+      "hino": "audios/320 Brilha No Viver.opus"
+    }
+  },
+  {
+    "numero": "321",
+    "titulo": "Mãos Ao Trabalho",
+    "audios": {
+      "hino": "audios/321 Mãos Ao Trabalho.opus"
+    }
+  },
+  {
+    "numero": "322",
+    "titulo": "Heroínas Da Fé",
+    "audios": {
+      "hino": "audios/322 Heroínas Da Fé.opus"
+    }
+  },
+  {
+    "numero": "323",
+    "titulo": "Santa Peleja",
+    "audios": {
+      "hino": "audios/323 - Santa Peleja.opus"
+    }
+  },
+  {
+    "numero": "324",
+    "titulo": "Unidas E Firmes",
+    "audios": {
+      "hino": "audios/324 - Unidas E Firmes.opus"
+    }
+  },
+  {
+    "numero": "325",
+    "titulo": "1 Aspiração Feminina",
+    "audios": {
+      "hino": "audios/325 - 1 Aspiração Feminina.opus"
+    }
+  },
+  {
+    "numero": "325",
+    "titulo": "2 Jesus Cristo É O Senhor",
+    "audios": {
+      "hino": "audios/325 - 2 Jesus Cristo É O Senhor.opus"
+    }
+  },
+  {
+    "numero": "326",
+    "titulo": "Homens Presbiterianos",
+    "audios": {
+      "hino": "audios/326 - Homens Presbiterianos.opus"
+    }
+  },
+  {
+    "numero": "327",
+    "titulo": "Obreiros Cristãos",
+    "audios": {
+      "hino": "audios/327 - Obreiros Cristãos.opus"
+    }
+  },
+  {
+    "numero": "328",
+    "titulo": "Deus Do Universo",
+    "audios": {
+      "hino": "audios/328 - Deus Do Universo.opus"
+    }
+  },
+  {
+    "numero": "329",
+    "titulo": "Instalação De Pastor",
+    "audios": {
+      "hino": "audios/329 - Instalação De Pastor.opus"
+    }
+  },
+  {
+    "numero": "33",
+    "titulo": "Maravilhas divinas CERTO",
+    "audios": {
+      "hino": "audios/33 - Maravilhas divinas CERTO.opus"
+    }
+  },
+  {
+    "numero": "33",
+    "titulo": "Maravilhas divinas",
+    "audios": {
+      "hino": "audios/33 - Maravilhas divinas.opus"
+    }
+  },
+  {
+    "numero": "330",
+    "titulo": "A Benção Do Batismo",
+    "audios": {
+      "hino": "audios/330 - A Benção Do Batismo.opus"
+    }
+  },
+  {
+    "numero": "331",
+    "titulo": "Oração",
+    "audios": {
+      "hino": "audios/331 - Oração.opus"
+    }
+  },
+  {
+    "numero": "332",
+    "titulo": "Batismo Infantil",
+    "audios": {
+      "hino": "audios/332 - Batismo Infantil.opus"
+    }
+  },
+  {
+    "numero": "333",
+    "titulo": "O Batismo",
+    "audios": {
+      "hino": "audios/333 - O Batismo.opus"
+    }
+  },
+  {
+    "numero": "334",
+    "titulo": "A Conversão",
+    "audios": {
+      "hino": "audios/334 - A Conversão.opus"
+    }
+  },
+  {
+    "numero": "335",
+    "titulo": "Júbilo Do Céu",
+    "audios": {
+      "hino": "audios/335 - Júbilo Do Céu.opus"
+    }
+  },
+  {
+    "numero": "336",
+    "titulo": "Transformação",
+    "audios": {
+      "hino": "audios/336 - Transformação.opus"
+    }
+  },
+  {
+    "numero": "337",
+    "titulo": "Profissão De Fé",
+    "audios": {
+      "hino": "audios/337 - Profissão De Fé.opus"
+    }
+  },
+  {
+    "numero": "338",
+    "titulo": "Dia Da Profissão De Fé",
+    "audios": {
+      "hino": "audios/338 - Dia Da Profissão De Fé.opus"
+    }
+  },
+  {
+    "numero": "339",
+    "titulo": "Dia Feliz",
+    "audios": {
+      "hino": "audios/339 - Dia Feliz.opus"
+    }
+  },
+  {
+    "numero": "34",
+    "titulo": "Convite ao louvor",
+    "audios": {
+      "hino": "audios/34 - Convite ao louvor.opus"
+    }
+  },
+  {
+    "numero": "340",
+    "titulo": "Santa Comunhão",
+    "audios": {
+      "hino": "audios/340 - Santa Comunhão.opus"
+    }
+  },
+  {
+    "numero": "341",
+    "titulo": "Vera Páscoa",
+    "audios": {
+      "hino": "audios/341 - Vera Páscoa.opus"
+    }
+  },
+  {
+    "numero": "342",
+    "titulo": "1 Comunhão",
+    "audios": {
+      "hino": "audios/342 - 1 Comunhão.opus"
+    }
+  },
+  {
+    "numero": "342",
+    "titulo": "2 Comunhão",
+    "audios": {
+      "hino": "audios/342 - 2 Comunhão.opus"
+    }
+  },
+  {
+    "numero": "343",
+    "titulo": "Em Memória",
+    "audios": {
+      "hino": "audios/343 - Em Memória.opus"
+    }
+  },
+  {
+    "numero": "344",
+    "titulo": "A Ceia Do Senhor",
+    "audios": {
+      "hino": "audios/344 - A Ceia Do Senhor.opus"
+    }
+  },
+  {
+    "numero": "345",
+    "titulo": "O Pão Do Mundo",
+    "audios": {
+      "hino": "audios/345 - O Pão Do Mundo.opus"
+    }
+  },
+  {
+    "numero": "346",
+    "titulo": "A Ceia Do Senhor",
+    "audios": {
+      "hino": "audios/346 - A Ceia Do Senhor.opus"
+    }
+  },
+  {
+    "numero": "347",
+    "titulo": "O Justo Pelos Injustos",
+    "audios": {
+      "hino": "audios/347 - O Justo Pelos Injustos.opus"
+    }
+  },
+  {
+    "numero": "348",
+    "titulo": "È Este O Dia",
+    "audios": {
+      "hino": "audios/348 - È Este O Dia.opus"
+    }
+  },
+  {
+    "numero": "349",
+    "titulo": "Dia Do Senhor",
+    "audios": {
+      "hino": "audios/349 - Dia Do Senhor.opus"
+    }
+  },
+  {
+    "numero": "35",
+    "titulo": "Adoração e suplica",
+    "audios": {
+      "hino": "audios/35 - Adoração e suplica.opus"
+    }
+  },
+  {
+    "numero": "350",
+    "titulo": "1 - A Palavra Da Vida",
+    "audios": {
+      "hino": "audios/350 1 - A Palavra Da Vida.opus"
+    }
+  },
+  {
+    "numero": "350",
+    "titulo": "2 - A Palavra Da Vida",
+    "audios": {
+      "hino": "audios/350 2 - A Palavra Da Vida.opus"
+    }
+  },
+  {
+    "numero": "351",
+    "titulo": "Belas Palavras De Vida",
+    "audios": {
+      "hino": "audios/351 - Belas Palavras De Vida.opus"
+    }
+  },
+  {
+    "numero": "352",
+    "titulo": "Leitura Bendita",
+    "audios": {
+      "hino": "audios/352 - Leitura Bendita.opus"
+    }
+  },
+  {
+    "numero": "353",
+    "titulo": "1 - Ao Fim Dos Estudos",
+    "audios": {
+      "hino": "audios/353 1 - Ao Fim Dos Estudos.opus"
+    }
+  },
+  {
+    "numero": "353",
+    "titulo": "2 - Ao Fim Dos Estudos",
+    "audios": {
+      "hino": "audios/353 2 - Ao Fim Dos Estudos.opus"
+    }
+  },
+  {
+    "numero": "353",
+    "titulo": "3 - Ao Fim Dos Estudos",
+    "audios": {
+      "hino": "audios/353 3 - Ao Fim Dos Estudos.opus"
+    }
+  },
+  {
+    "numero": "354",
+    "titulo": "1 - A Escola Dominical",
+    "audios": {
+      "hino": "audios/354 1 - A Escola Dominical.opus"
+    }
+  },
+  {
+    "numero": "354",
+    "titulo": "2 - A Escola Dominical",
+    "audios": {
+      "hino": "audios/354 2 - A Escola Dominical.opus"
+    }
+  },
+  {
+    "numero": "355",
+    "titulo": "Oração Infantil",
+    "audios": {
+      "hino": "audios/355 - Oração Infantil.opus"
+    }
+  },
+  {
+    "numero": "356",
+    "titulo": "Jesus Menino",
+    "audios": {
+      "hino": "audios/356 - Jesus Menino.opus"
+    }
+  },
+  {
+    "numero": "357",
+    "titulo": "Louvor Infantil",
+    "audios": {
+      "hino": "audios/357 - Louvor Infantil.opus"
+    }
+  },
+  {
+    "numero": "358",
+    "titulo": "Jesus E As Crianças",
+    "audios": {
+      "hino": "audios/358 - Jesus E As Crianças.opus"
+    }
+  },
+  {
+    "numero": "359",
+    "titulo": "Jeses Me Quer Bem",
+    "audios": {
+      "hino": "audios/359 - Jeses Me Quer Bem.opus"
+    }
+  },
+  {
+    "numero": "36",
+    "titulo": "Exaltação",
+    "audios": {
+      "hino": "audios/36 - Exaltação.opus"
+    }
+  },
+  {
+    "numero": "360",
+    "titulo": "Pequena Luz",
+    "audios": {
+      "hino": "audios/360 - Pequena Luz.opus"
+    }
+  },
+  {
+    "numero": "361",
+    "titulo": "Brilhando Com Jesus",
+    "audios": {
+      "hino": "audios/361 - Brilhando Com Jesus.opus"
+    }
+  },
+  {
+    "numero": "362",
+    "titulo": "Brilhando Por Jesus",
+    "audios": {
+      "hino": "audios/362 - Brilhando Por Jesus.opus"
+    }
+  },
+  {
+    "numero": "363",
+    "titulo": "Venham As Crianças",
+    "audios": {
+      "hino": "audios/363 - Venham As Crianças.opus"
+    }
+  },
+  {
+    "numero": "364",
+    "titulo": "Graças A Deus",
+    "audios": {
+      "hino": "audios/364 - Graças A Deus.opus"
+    }
+  },
+  {
+    "numero": "365",
+    "titulo": "Convite Às Crianças",
+    "audios": {
+      "hino": "audios/365 - Convite Às Crianças.opus"
+    }
+  },
+  {
+    "numero": "366",
+    "titulo": "Jóias Preciosas",
+    "audios": {
+      "hino": "audios/366 - Jóias Preciosas.opus"
+    }
+  },
+  {
+    "numero": "367",
+    "titulo": "Convite Aos Meninos",
+    "audios": {
+      "hino": "audios/367 - Convite Aos Meninos.opus"
+    }
+  },
+  {
+    "numero": "368",
+    "titulo": "Despedida",
+    "audios": {
+      "hino": "audios/368 - Despedida.opus"
+    }
+  },
+  {
+    "numero": "369",
+    "titulo": "A Bíblia Para Todos",
+    "audios": {
+      "hino": "audios/369 - A Bíblia Para Todos.opus"
+    }
+  },
+  {
+    "numero": "37",
+    "titulo": "(1º música) - O santo nome",
+    "audios": {
+      "hino": "audios/37 (1º música) - O santo nome.opus"
+    }
+  },
+  {
+    "numero": "37",
+    "titulo": "(2º música) - O santo nome",
+    "audios": {
+      "hino": "audios/37 (2º música) - O santo nome.opus"
+    }
+  },
+  {
+    "numero": "370",
+    "titulo": "Proclamação",
+    "audios": {
+      "hino": "audios/370 - Proclamação.opus"
+    }
+  },
+  {
+    "numero": "371",
+    "titulo": "A Bíblia",
+    "audios": {
+      "hino": "audios/371 - A Bíblia.opus"
+    }
+  },
+  {
+    "numero": "372",
+    "titulo": "O Crente E A Bíblia",
+    "audios": {
+      "hino": "audios/372 - O Crente E A Bíblia.opus"
+    }
+  },
+  {
+    "numero": "373",
+    "titulo": "Ano Novo",
+    "audios": {
+      "hino": "audios/373 - Ano Novo.opus"
+    }
+  },
+  {
+    "numero": "374",
+    "titulo": "1 - Saudando O Ano Novo",
+    "audios": {
+      "hino": "audios/374 1 - Saudando O Ano Novo.opus"
+    }
+  },
+  {
+    "numero": "374",
+    "titulo": "2 - Saudando O Ano Novo",
+    "audios": {
+      "hino": "audios/374 2 - Saudando O Ano Novo.opus"
+    }
+  },
+  {
+    "numero": "375",
+    "titulo": "O Ano Velho",
+    "audios": {
+      "hino": "audios/375 - O Ano Velho.opus"
+    }
+  },
+  {
+    "numero": "376",
+    "titulo": "Intercessão Pela Pátria",
+    "audios": {
+      "hino": "audios/376 - Intercessão Pela Pátria.opus"
+    }
+  },
+  {
+    "numero": "377",
+    "titulo": "A Nação Para Cristo",
+    "audios": {
+      "hino": "audios/377 - A Nação Para Cristo.opus"
+    }
+  },
+  {
+    "numero": "378",
+    "titulo": "Oração Pela Pátria",
+    "audios": {
+      "hino": "audios/378 - Oração Pela Pátria.opus"
+    }
+  },
+  {
+    "numero": "379",
+    "titulo": "Petição Pela Pátria",
+    "audios": {
+      "hino": "audios/379 - Petição Pela Pátria.opus"
+    }
+  },
+  {
+    "numero": "38",
+    "titulo": "Louvores sem fim",
+    "audios": {
+      "hino": "audios/38 - Louvores sem fim.opus"
+    }
+  },
+  {
+    "numero": "380",
+    "titulo": "Jesus Proteja A Pátria",
+    "audios": {
+      "hino": "audios/380 - Jesus Proteja A Pátria.opus"
+    }
+  },
+  {
+    "numero": "381",
+    "titulo": "Intercessão Pela Cidade",
+    "audios": {
+      "hino": "audios/381 - Intercessão Pela Cidade.opus"
+    }
+  },
+  {
+    "numero": "382",
+    "titulo": "Mocidade Presbiteriana",
+    "audios": {
+      "hino": "audios/382 - Mocidade Presbiteriana.opus"
+    }
+  },
+  {
+    "numero": "383",
+    "titulo": "Um Novo Mundo",
+    "audios": {
+      "hino": "audios/383 - Um Novo Mundo.opus"
+    }
+  },
+  {
+    "numero": "384",
+    "titulo": "Vamos Com Jesus",
+    "audios": {
+      "hino": "audios/384 - Vamos Com Jesus.opus"
+    }
+  },
+  {
+    "numero": "385",
+    "titulo": "O Estudante E A Bíblia",
+    "audios": {
+      "hino": "audios/385 - O Estudante E A Bíblia.opus"
+    }
+  },
+  {
+    "numero": "386",
+    "titulo": "Testemunho",
+    "audios": {
+      "hino": "audios/386 - Testemunho.opus"
+    }
+  },
+  {
+    "numero": "387",
+    "titulo": "Combate",
+    "audios": {
+      "hino": "audios/387 - Combate.opus"
+    }
+  },
+  {
+    "numero": "388",
+    "titulo": "Mocidade, Avante!",
+    "audios": {
+      "hino": "audios/388 - Mocidade, Avante!.opus"
+    }
+  },
+  {
+    "numero": "389",
+    "titulo": "Avante, Mocidade!",
+    "audios": {
+      "hino": "audios/389 - Avante, Mocidade!.opus"
+    }
+  },
+  {
+    "numero": "390",
+    "titulo": "Fiéis Soldados",
+    "audios": {
+      "hino": "audios/390 - Fiéis Soldados.opus"
+    }
+  },
+  {
+    "numero": "391",
+    "titulo": "Mociade Fiel",
+    "audios": {
+      "hino": "audios/391 - Mociade Fiel.opus"
+    }
+  },
+  {
+    "numero": "392",
+    "titulo": "Vida Vitoriosa",
+    "audios": {
+      "hino": "audios/392 - Vida Vitoriosa.opus"
+    }
+  },
+  {
+    "numero": "393",
+    "titulo": "Uniao Vital",
+    "audios": {
+      "hino": "audios/393 - Uniao Vital.opus"
+    }
+  },
+  {
+    "numero": "394",
+    "titulo": "Amor No Lar",
+    "audios": {
+      "hino": "audios/394 - Amor No Lar.opus"
+    }
+  },
+  {
+    "numero": "395",
+    "titulo": "Graças Pelo Aniversário",
+    "audios": {
+      "hino": "audios/395 - Graças Pelo Aniversário.opus"
+    }
+  },
+  {
+    "numero": "396",
+    "titulo": "Por Minha Boa Mãe",
+    "audios": {
+      "hino": "audios/396 - Por Minha Boa Mãe.opus"
+    }
+  },
+  {
+    "numero": "397",
+    "titulo": "Por Minha Boa Mãe",
+    "audios": {
+      "hino": "audios/397 - Por Minha Boa Mãe.opus"
+    }
+  },
+  {
+    "numero": "398",
+    "titulo": "Outra Vez Cantamos",
+    "audios": {
+      "hino": "audios/398 - Outra Vez Cantamos.opus"
+    }
+  },
+  {
+    "numero": "399",
+    "titulo": "Término Do Culto",
+    "audios": {
+      "hino": "audios/399 - Término Do Culto.opus"
+    }
+  },
+  {
+    "numero": "40",
+    "titulo": "Salvação",
+    "audios": {
+      "hino": "audios/40 - Salvação.opus"
+    }
+  },
+  {
+    "numero": "400",
+    "titulo": "1 - Oração Por Proteção",
+    "audios": {
+      "hino": "audios/400 1 - Oração Por Proteção.opus"
+    }
+  },
+  {
+    "numero": "400",
+    "titulo": "2 - Oração Por Proteção",
+    "audios": {
+      "hino": "audios/400 2 - Oração Por Proteção.opus"
+    }
+  },
+  {
+    "numero": "400",
+    "titulo": "A - Ofertório",
+    "audios": {
+      "hino": "audios/400-A - Ofertório.opus"
+    }
+  },
+  {
+    "numero": "401",
+    "titulo": "Amém Tríplice",
+    "audios": {
+      "hino": "audios/401 - Amém Tríplice.opus"
+    }
+  },
+  {
+    "numero": "402",
+    "titulo": "Amém Quádruplo",
+    "audios": {
+      "hino": "audios/402 - Amém Quádruplo.opus"
+    }
+  },
+  {
+    "numero": "403",
+    "titulo": "Amém Sétuplo",
+    "audios": {
+      "hino": "audios/403 - Amém Sétuplo.opus"
+    }
+  },
+  {
+    "numero": "41",
+    "titulo": "Louvor pela graça divina CERTO",
+    "audios": {
+      "hino": "audios/41 - Louvor pela graça divina CERTO.opus"
+    }
+  },
+  {
+    "numero": "42",
+    "titulo": "O grande amor de Deus CERTO",
+    "audios": {
+      "hino": "audios/42 - O grande amor de Deus CERTO.opus"
+    }
+  },
+  {
+    "numero": "43",
+    "titulo": "O Deus de amor",
+    "audios": {
+      "hino": "audios/43 - O Deus de amor.opus"
+    }
+  },
+  {
+    "numero": "44",
+    "titulo": "Louvores ao senhor",
+    "audios": {
+      "hino": "audios/44 - Louvores ao senhor.opus"
+    }
+  },
+  {
+    "numero": "45",
+    "titulo": "Grande redenção",
+    "audios": {
+      "hino": "audios/45 - Grande redenção.opus"
+    }
+  },
+  {
+    "numero": "47",
+    "titulo": "louvor e glória oficial (certo)",
+    "audios": {
+      "hino": "audios/47- louvor e glória oficial (certo).opus"
+    }
+  },
+  {
+    "numero": "49",
+    "titulo": "Sempre vencendo (certo)",
+    "audios": {
+      "hino": "audios/49 - Sempre vencendo (certo).opus"
+    }
+  },
+  {
+    "numero": "50",
+    "titulo": "Sangue precioso",
+    "audios": {
+      "hino": "audios/50 - Sangue precioso.opus"
+    }
+  },
+  {
+    "numero": "52",
+    "titulo": "Glória e louvor",
+    "audios": {
+      "hino": "audios/52 - Glória e louvor.opus"
+    }
+  },
+  {
+    "numero": "53",
+    "titulo": "1 - Honra, Poder, Majestade",
+    "audios": {
+      "hino": "audios/53 1 - Honra, Poder, Majestade.opus"
+    }
+  },
+  {
+    "numero": "53",
+    "titulo": "2 - Honra, Poder, Majestade",
+    "audios": {
+      "hino": "audios/53 2 - Honra, Poder, Majestade.opus"
+    }
+  },
+  {
+    "numero": "54",
+    "titulo": "Achegada do Messias",
+    "audios": {
+      "hino": "audios/54 - Achegada do Messias.opus"
+    }
+  },
+  {
+    "numero": "55",
+    "titulo": "Alegria e gratidão",
+    "audios": {
+      "hino": "audios/55 - Alegria e gratidão.opus"
+    }
+  },
+  {
+    "numero": "56",
+    "titulo": "1 - Ações de graças e súplica",
+    "audios": {
+      "hino": "audios/56 1 - Ações de graças e súplica.opus"
+    }
+  },
+  {
+    "numero": "56",
+    "titulo": "2 - Ações de graças e súplica",
+    "audios": {
+      "hino": "audios/56 2 - Ações de graças e súplica.opus"
+    }
+  },
+  {
+    "numero": "57",
+    "titulo": "Fonte de todo bem",
+    "audios": {
+      "hino": "audios/57 - Fonte de todo bem.opus"
+    }
+  },
+  {
+    "numero": "58",
+    "titulo": "1 - Ofertas",
+    "audios": {
+      "hino": "audios/58 1 - Ofertas.opus"
+    }
+  },
+  {
+    "numero": "58",
+    "titulo": "2 - Ofertas",
+    "audios": {
+      "hino": "audios/58 2 - Ofertas.opus"
+    }
+  },
+  {
+    "numero": "59",
+    "titulo": "Gratidão",
+    "audios": {
+      "hino": "audios/59 - Gratidão.opus"
+    }
+  },
+  {
+    "numero": "60",
+    "titulo": "Ofertório",
+    "audios": {
+      "hino": "audios/60 - Ofertório.opus"
+    }
+  },
+  {
+    "numero": "61",
+    "titulo": "Ações de graças",
+    "audios": {
+      "hino": "audios/61 - Ações de graças.opus"
+    }
+  },
+  {
+    "numero": "62",
+    "titulo": "Hino de gratidão",
+    "audios": {
+      "hino": "audios/62 - Hino de gratidão.opus"
+    }
+  },
+  {
+    "numero": "63",
+    "titulo": "As muitas bençãos",
+    "audios": {
+      "hino": "audios/63 - As muitas bençãos.opus"
+    }
+  },
+  {
+    "numero": "64",
+    "titulo": "Grata Memória",
+    "audios": {
+      "hino": "audios/64 - Grata Memória.opus"
+    }
+  },
+  {
+    "numero": "65",
+    "titulo": "Louvor",
+    "audios": {
+      "hino": "audios/65 - Louvor.opus"
+    }
+  },
+  {
+    "numero": "66",
+    "titulo": "Coração quebrantado",
+    "audios": {
+      "hino": "audios/66 - Coração quebrantado.opus"
+    }
+  },
+  {
+    "numero": "67",
+    "titulo": "Coração quebrantado",
+    "audios": {
+      "hino": "audios/67 - Coração quebrantado.opus"
+    }
+  },
+  {
+    "numero": "68",
+    "titulo": "Necessidadae",
+    "audios": {
+      "hino": "audios/68 - Necessidadae.opus"
+    }
+  },
+  {
+    "numero": "69",
+    "titulo": "Súplica",
+    "audios": {
+      "hino": "audios/69 - Súplica.opus"
+    }
+  },
+  {
+    "numero": "70",
+    "titulo": "Descanso em Jesus",
+    "audios": {
+      "hino": "audios/70 - Descanso em Jesus.opus"
+    }
+  },
+  {
+    "numero": "71",
+    "titulo": "1 - Perdão",
+    "audios": {
+      "hino": "audios/71 1 - Perdão.opus"
+    }
+  },
+  {
+    "numero": "71",
+    "titulo": "2 - Perdão",
+    "audios": {
+      "hino": "audios/71 2 - Perdão.opus"
+    }
+  },
+  {
+    "numero": "72",
+    "titulo": "Purificação",
+    "audios": {
+      "hino": "audios/72 - Purificação.opus"
+    }
+  },
+  {
+    "numero": "73",
+    "titulo": "Compaixão",
+    "audios": {
+      "hino": "audios/73 - Compaixão.opus"
+    }
+  },
+  {
+    "numero": "74",
+    "titulo": "Sinceridade",
+    "audios": {
+      "hino": "audios/74 - Sinceridade.opus"
+    }
+  },
+  {
+    "numero": "75",
+    "titulo": "1 - Arrependimento e Súplica",
+    "audios": {
+      "hino": "audios/75 1 - Arrependimento e Súplica.opus"
+    }
+  },
+  {
+    "numero": "75",
+    "titulo": "2 - Arrependimento e Súplica",
+    "audios": {
+      "hino": "audios/75 2 - Arrependimento e Súplica.opus"
+    }
+  },
+  {
+    "numero": "76",
+    "titulo": "Compaixao",
+    "audios": {
+      "hino": "audios/76 - Compaixao.opus"
+    }
+  },
+  {
+    "numero": "77",
+    "titulo": "Divino Perdão",
+    "audios": {
+      "hino": "audios/77 - Divino Perdão.opus"
+    }
+  },
+  {
+    "numero": "78",
+    "titulo": "Perfeita Expiação",
+    "audios": {
+      "hino": "audios/78 - Perfeita Expiação.opus"
+    }
+  },
+  {
+    "numero": "79",
+    "titulo": "Glória ao Salvador",
+    "audios": {
+      "hino": "audios/79 - Glória ao Salvador.opus"
+    }
+  },
+  {
+    "numero": "80",
+    "titulo": "O amor de Jesus",
+    "audios": {
+      "hino": "audios/80 - O amor de Jesus.opus"
+    }
+  },
+  {
+    "numero": "81",
+    "titulo": "Súplica ao Espírito Santo",
+    "audios": {
+      "hino": "audios/81 - Súplica ao Espírito Santo.opus"
+    }
+  },
+  {
+    "numero": "82",
+    "titulo": "Divino Preceptor",
+    "audios": {
+      "hino": "audios/82 - Divino Preceptor.opus"
+    }
+  },
+  {
+    "numero": "83",
+    "titulo": "Divino Instruidor",
+    "audios": {
+      "hino": "audios/83 - Divino Instruidor.opus"
+    }
+  },
+  {
+    "numero": "84",
+    "titulo": "Santo Espírito",
+    "audios": {
+      "hino": "audios/84 - Santo Espírito.opus"
+    }
+  },
+  {
+    "numero": "85",
+    "titulo": "Espírito Consolador",
+    "audios": {
+      "hino": "audios/85 - Espírito Consolador.opus"
+    }
+  },
+  {
+    "numero": "86",
+    "titulo": "Espírito do Eterno Deus",
+    "audios": {
+      "hino": "audios/86 - Espírito do Eterno Deus.opus"
+    }
+  },
+  {
+    "numero": "87",
+    "titulo": "Alegria perene",
+    "audios": {
+      "hino": "audios/87 - Alegria perene.opus"
+    }
+  },
+  {
+    "numero": "88",
+    "titulo": "Amor Perene",
+    "audios": {
+      "hino": "audios/88 - Amor Perene.opus"
+    }
+  },
+  {
+    "numero": "89",
+    "titulo": "Amor Sacrificial",
+    "audios": {
+      "hino": "audios/89 - Amor Sacrificial.opus"
+    }
+  },
+  {
+    "numero": "90",
+    "titulo": "Amor Insondável",
+    "audios": {
+      "hino": "audios/90 - Amor Insondável.opus"
+    }
+  },
+  {
+    "numero": "91",
+    "titulo": "A fé dos antigos",
+    "audios": {
+      "hino": "audios/91 - A fé dos antigos.opus"
+    }
+  },
+  {
+    "numero": "92",
+    "titulo": "A fé contemplada",
+    "audios": {
+      "hino": "audios/92 - A fé contemplada.opus"
+    }
+  },
+  {
+    "numero": "93",
+    "titulo": "Firmeza na Fé",
+    "audios": {
+      "hino": "audios/93 - Firmeza na Fé.opus"
+    }
+  },
+  {
+    "numero": "94",
+    "titulo": "A porta da salvação",
+    "audios": {
+      "hino": "audios/94 - A porta da salvação.opus"
+    }
+  },
+  {
+    "numero": "95",
+    "titulo": "Somente Cristo",
+    "audios": {
+      "hino": "audios/95 - Somente Cristo.opus"
+    }
+  },
+  {
+    "numero": "96",
+    "titulo": "Redenção Suprema",
+    "audios": {
+      "hino": "audios/96 - Redenção Suprema.opus"
+    }
+  },
+  {
+    "numero": "97",
+    "titulo": "Súplica do Redimido",
+    "audios": {
+      "hino": "audios/97 - Súplica do Redimido.opus"
+    }
+  },
+  {
+    "numero": "98",
+    "titulo": "Não há condenação",
+    "audios": {
+      "hino": "audios/98 - Não há condenação.opus"
+    }
+  },
+  {
+    "numero": "99",
+    "titulo": "Louvor ao Redentor",
+    "audios": {
+      "hino": "audios/99 - Louvor ao Redentor.opus"
+    }
+  }
+]
